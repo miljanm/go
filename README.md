@@ -59,6 +59,7 @@ Out of personal preference and need for focus, I geared the original curriculum 
 (http://www.quora.com/What-are-some-good-resources-for-learning-about-numerical-analysis)
 
 * **Linear Algebra & Programming**
+ * Linear Algebra / Gilbert Strang [MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
  * Linear Algebra / Levandosky [Stanford / Book ```$10```](http://amzn.to/1kIfmmI)
  * Linear Programming (Math 407) [University of Washington / Course](http://bit.ly/course-uw-linearprogramming)
 
